@@ -63,7 +63,7 @@ Onderzoek wat er gebeurt als content en/of ad blockers aan staan.
 - Elke student doet een Performance test en onderzoekt Internet snelheid
 - Elke student kiest 2 andere _features_ om te onderzoeken
 - Elke student kiest een apart site om te onderzoeken
-- Presenteer je bevindingen aan de squad
+- Maak als groep een presentatie en presenteer jullie bevindingen aan de squad
 
 
 ## Criteria
